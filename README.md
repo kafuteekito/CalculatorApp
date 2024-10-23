@@ -6,7 +6,6 @@ This project is a simple calculator application built using JavaFX. The calculat
 - [Features](#features)
 - [Usage](#usage)
 - [UI Screenshots](#ui-screenshots)
-- [Known Issues](#known-issues)
 
 ## Features
 
